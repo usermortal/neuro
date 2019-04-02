@@ -1,7 +1,8 @@
 dataset for training the machine
 
 1. http://autismkb.cbi.pku.edu.cn/dataset.php
-
+2.https://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++
+3.https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult
 
 facts
 
